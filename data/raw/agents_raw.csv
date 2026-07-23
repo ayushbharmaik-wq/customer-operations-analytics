@@ -1,0 +1,26 @@
+agent_id,agent_name,team,shift,manager_name,experience_level,max_daily_capacity
+1,Mark Mcintyre,Refunds,Night,Manager_5,Senior,24
+2,Julian Willis,Technical,Evening,Manager_5,Senior,20
+3,Phillip Pearson,Technical,Evening,Manager_2,Senior,17
+4,Keith Griffin,Technical,Night,Manager_1,Mid,24
+5,Kathryn Patton,Technical,Night,Manager_4,Junior,22
+6,Joshua Jackson,Payments,Evening,Manager_5,Mid,23
+7,Troy Ali,Payments,Morning,Manager_4,Mid,17
+8,Amanda Hess,Delivery,Morning,Manager_1,Mid,28
+9,Lisa Delgado,General Support,Evening,Manager_3,Junior,27
+10,Antonio Weeks,General Support,Evening,Manager_1,Junior,22
+11,David Frazier,Refunds,Evening,Manager_2,Mid,26
+12,Dr. Christy Pittman MD,Refunds,Evening,Manager_2,Senior,25
+13,Joseph Jones,Technical,Evening,Manager_3,Senior,27
+14,Michael Rivas,Technical,Evening,Manager_5,Junior,21
+15,Yvonne Johns,Delivery,Evening,Manager_3,Junior,23
+16,Jonathan Pham,Technical,Morning,Manager_5,Junior,24
+17,Theresa Reid,Payments,Night,Manager_5,Senior,27
+18,Michelle Nelson,Refunds,Morning,Manager_3,Junior,26
+19,Erica Clark,Payments,Night,Manager_1,Mid,26
+20,Erin Sloan,Refunds,Evening,Manager_3,Junior,28
+21,Thomas Lynch,Technical,Night,Manager_5,Mid,21
+22,Adam Thompson,Delivery,Evening,Manager_5,Senior,24
+23,Melissa Burns,Technical,Morning,Manager_3,Junior,21
+24,Brad Mcdowell,Refunds,Evening,Manager_2,Senior,25
+25,Kimberly Stafford,Delivery,Night,Manager_1,Senior,26
